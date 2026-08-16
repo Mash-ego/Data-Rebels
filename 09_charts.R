@@ -243,5 +243,3 @@ if (!is.null(pill)) {
             caption="Estimates are floored at observed and capped at 5x, so no client shows a gap it could not credibly close.") + thm,
      "13_opportunity_heatmap.png", 10, 8)
 }
-
-cat("\n", length(list.files(FIG)), "figures in", FIG, "-- numbered in deck order\n")
