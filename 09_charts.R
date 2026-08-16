@@ -36,8 +36,6 @@ sv <- function(p, f, w=12, h=7) {
   ggsave(file.path(FIG,f), p, width=w, height=h, dpi=200, bg="white")
   cat("  ", f, "\n") }
 
-cat("=== DECK GRAPHICS ===\n")
-
 #01 small multiples: whole book, three years, regime-decoded 
 bands <- path %>% group_by(entity_id) %>% arrange(d, .by_group=TRUE) %>%
   group_modify(~ { r <- rle(.x$state); e <- cumsum(r$lengths); s <- e - r$lengths + 1
