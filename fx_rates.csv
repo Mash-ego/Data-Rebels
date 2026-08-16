@@ -1,0 +1,65 @@
+currency,rate_date,rate_type,zar_per_unit,source,verified
+EUR,2021-06-30,average,18.362,Aspen AFS/Results Booklet FX note,YES
+EUR,2021-06-30,closing,16.959,Aspen AFS/Results Booklet FX note,YES
+EUR,2022-06-30,average,17.143,Aspen AFS/Results Booklet FX note,YES
+EUR,2022-06-30,closing,17.094,Aspen AFS/Results Booklet FX note,YES
+EUR,2022-12-31,average,,SARB / company AFS,NO
+EUR,2022-12-31,closing,,SARB / company AFS,NO
+EUR,2023-06-30,average,18.613,Aspen AFS/Results Booklet FX note,YES
+EUR,2023-06-30,closing,20.568,Aspen AFS/Results Booklet FX note,YES
+EUR,2023-12-31,average,,SARB / company AFS,NO
+EUR,2023-12-31,closing,,SARB / company AFS,NO
+EUR,2024-06-30,average,20.233,Aspen AFS/Results Booklet FX note,YES
+EUR,2024-06-30,closing,19.468,Aspen AFS/Results Booklet FX note,YES
+EUR,2024-12-31,average,,SARB / company AFS,NO
+EUR,2024-12-31,closing,,SARB / company AFS,NO
+EUR,2025-06-30,average,19.759,Aspen AFS/Results Booklet FX note,YES
+EUR,2025-06-30,closing,20.875,Aspen AFS/Results Booklet FX note,YES
+EUR,2025-12-31,average,,SARB / company AFS,NO
+EUR,2025-12-31,closing,,SARB / company AFS,NO
+GBP,2021-06-30,average,20.707,Aspen AFS/Results Booklet FX note,YES
+GBP,2021-06-30,closing,19.757,Aspen AFS/Results Booklet FX note,YES
+GBP,2022-06-30,average,20.241,Aspen AFS/Results Booklet FX note,YES
+GBP,2022-06-30,closing,19.861,Aspen AFS/Results Booklet FX note,YES
+GBP,2022-12-31,average,,SARB / company AFS,NO
+GBP,2022-12-31,closing,,SARB / company AFS,NO
+GBP,2023-06-30,average,21.395,Aspen AFS/Results Booklet FX note,YES
+GBP,2023-06-30,closing,23.941,Aspen AFS/Results Booklet FX note,YES
+GBP,2023-12-31,average,,SARB / company AFS,NO
+GBP,2023-12-31,closing,,SARB / company AFS,NO
+GBP,2024-06-30,average,23.556,Aspen AFS/Results Booklet FX note,YES
+GBP,2024-06-30,closing,22.996,Aspen AFS/Results Booklet FX note,YES
+GBP,2024-12-31,average,23.42,Sanlam Annual Results Booklet 2025 FX table,YES
+GBP,2024-12-31,closing,23.63,Sanlam Annual Results Booklet 2025 FX table,YES
+GBP,2025-06-30,average,23.504,Aspen AFS/Results Booklet FX note,YES
+GBP,2025-06-30,closing,24.323,Aspen AFS/Results Booklet FX note,YES
+GBP,2025-12-31,average,23.54,Sanlam Annual Results Booklet 2025 FX table,YES
+GBP,2025-12-31,closing,22.29,Sanlam Annual Results Booklet 2025 FX table,YES
+USD,2021-06-30,average,15.408,Aspen AFS/Results Booklet FX note,YES
+USD,2021-06-30,closing,14.31,Aspen AFS/Results Booklet FX note,YES
+USD,2022-03-31,average,,SARB / company AFS,NO
+USD,2022-03-31,closing,,SARB / company AFS,NO
+USD,2022-06-30,average,15.217,Aspen AFS/Results Booklet FX note,YES
+USD,2022-06-30,closing,16.333,Aspen AFS/Results Booklet FX note,YES
+USD,2022-12-31,average,,SARB / company AFS,NO
+USD,2022-12-31,closing,,SARB / company AFS,NO
+USD,2023-03-31,average,,SARB / company AFS,NO
+USD,2023-03-31,closing,,SARB / company AFS,NO
+USD,2023-06-30,average,17.758,Aspen AFS/Results Booklet FX note,YES
+USD,2023-06-30,closing,18.839,Aspen AFS/Results Booklet FX note,YES
+USD,2023-12-31,average,,SARB / company AFS,NO
+USD,2023-12-31,closing,,SARB / company AFS,NO
+USD,2024-03-31,average,,SARB / company AFS,NO
+USD,2024-03-31,closing,,SARB / company AFS,NO
+USD,2024-06-30,average,18.707,Aspen AFS/Results Booklet FX note,YES
+USD,2024-06-30,closing,18.185,Aspen AFS/Results Booklet FX note,YES
+USD,2024-12-31,average,18.32,Sanlam Annual Results Booklet 2025 FX table,YES
+USD,2024-12-31,closing,18.87,Sanlam Annual Results Booklet 2025 FX table,YES
+USD,2025-03-31,average,,SARB / company AFS,NO
+USD,2025-03-31,closing,,SARB / company AFS,NO
+USD,2025-06-30,average,18.164,Aspen AFS/Results Booklet FX note,YES
+USD,2025-06-30,closing,17.712,Aspen AFS/Results Booklet FX note,YES
+USD,2025-12-31,average,17.85,Sanlam Annual Results Booklet 2025 FX table,YES
+USD,2025-12-31,closing,16.57,Sanlam Annual Results Booklet 2025 FX table,YES
+USD,2026-03-31,average,,SARB / company AFS,NO
+USD,2026-03-31,closing,,SARB / company AFS,NO
